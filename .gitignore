@@ -37,3 +37,11 @@ android/build/
 .gradle
 local.properties
 *.iml
+
+
+
+#Test
+example/node_modules
+example/ios/Pods
+
+yarn.lock
